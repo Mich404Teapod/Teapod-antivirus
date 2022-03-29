@@ -3,7 +3,7 @@
 # Filename     :  SyncFolder.ps1
 # Autor        :  BornToBeroot
 # Description  :  Synchronizes a folder (with subfolder/files) in one direction - optional over a PSSession
-# Repository   :  https://github.com/BornToBeRoot/PowerShell_SyncFolder
+# Repository   :  https://github.com/Mich404Teapod/Teapod-antivirus/edit/main/script/tools/syncronisation
 ###############################################################################################################
 
 <#
