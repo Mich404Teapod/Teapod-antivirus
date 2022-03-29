@@ -23,7 +23,7 @@
     $Cred = Get-Credential $null
     .\SyncFolder.ps1 -Source E:\Temp\DemoSource\ -Destination C:\DemoDestination\ -ToSession -ComputerName TEST-DEVICE-01 -Credential $Cred -Verbose
     .LINK
-    https://github.com/BornToBeRoot/PowerShell_SyncFolder/blob/master/README.md    
+    https://github.com/Mich404Teapod/Teapod-antivirus/blob/main/README.md  
 #>
 
 #Requires -Version 5.0
